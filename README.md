@@ -12,5 +12,3 @@ Plugin to get ping of player | Minecraft Bedrock Edition| Nukkit | API 1.0.13
 
 
 Link to cloudburstmc article -> [CloudburstMC](https://cloudburstmc.org/resources/nickchangergui.783/)
-
-# Examples of NickUI
